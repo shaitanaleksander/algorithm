@@ -4,17 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MinimumValueToGetPositiveStepByStepSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/RunningSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/arraysAndStringsTest/MinimumValueToGetPositiveStepByStepSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/arraysAndStringsTest/RunningSumTest.java" afterDir="false" />
+    <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="finished with Array and string section">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/CheckIfTheSentenceIsPangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/CountingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/FindPlayersWithZeroOrOneLosses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/LargestUniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/MaximumNumberOfBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/MiddleOfTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/RemoveDuplicatesfromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/ReverseLinkedListII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/CheckIfTheSentenceIsPangramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/CountingElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/FindPlayersWithZeroOrOneLossesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/LargestUniqueNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/LongestSubstringWithoutRepeatingCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/MaximumNumberOfBalloonsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/MissingNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/hahingTest/RansomNoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,82 +72,82 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.MinimumValueToGetPositiveStepByStepSumTest.minStartValueBinarySearchCase2Test">
-    <configuration name="MaxConsecutiveTest.longestOnesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LongestSubstringWithoutRepeatingCharactersTest.lengthOfLongestSubstring">
+    <configuration name="LargestUniqueNumberTest.largestUniqueNumberSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.arraysAndStringsTest.*" />
+          <option name="PATTERN" value="org.leetcode.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.arraysAndStringsTest" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStringsTest.MaxConsecutiveTest" />
-      <option name="METHOD_NAME" value="longestOnesTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.hahingTest" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.hahingTest.LargestUniqueNumberTest" />
+      <option name="METHOD_NAME" value="largestUniqueNumberSortTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumValueToGetPositiveStepByStepSumTest.minStartValueBinarySearchCase2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LargestUniqueNumberTest.largestUniqueNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.arraysAndStringsTest.*" />
+          <option name="PATTERN" value="org.leetcode.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.arraysAndStringsTest" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStringsTest.MinimumValueToGetPositiveStepByStepSumTest" />
-      <option name="METHOD_NAME" value="minStartValueBinarySearchCase2Test" />
+      <option name="PACKAGE_NAME" value="org.leetcode.hahingTest" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.hahingTest.LargestUniqueNumberTest" />
+      <option name="METHOD_NAME" value="largestUniqueNumberTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumValueToGetPositiveStepByStepSumTest.minStartValueBinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubstringWithoutRepeatingCharactersTest.lengthOfLongestSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.arraysAndStringsTest.*" />
+          <option name="PATTERN" value="org.leetcode.hahingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.arraysAndStringsTest" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStringsTest.MinimumValueToGetPositiveStepByStepSumTest" />
-      <option name="METHOD_NAME" value="minStartValueBinarySearchTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.hahingTest" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.hahingTest.LongestSubstringWithoutRepeatingCharactersTest" />
+      <option name="METHOD_NAME" value="lengthOfLongestSubstring" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumValueToGetPositiveStepByStepSumTest.minStartValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumNumberOfBalloonsTest.maxNumberOfBalloonsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.arraysAndStringsTest.*" />
+          <option name="PATTERN" value="org.leetcode.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.arraysAndStringsTest" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStringsTest.MinimumValueToGetPositiveStepByStepSumTest" />
-      <option name="METHOD_NAME" value="minStartValueTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.hahingTest" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.hahingTest.MaximumNumberOfBalloonsTest" />
+      <option name="METHOD_NAME" value="maxNumberOfBalloonsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumTest.runningSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RansomNoteTest.canConstruct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.arraysAndStringsTest.*" />
+          <option name="PATTERN" value="org.leetcode.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.arraysAndStringsTest" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStringsTest.RunningSumTest" />
-      <option name="METHOD_NAME" value="runningSumTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.hahingTest" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.hahingTest.RansomNoteTest" />
+      <option name="METHOD_NAME" value="canConstruct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MinimumValueToGetPositiveStepByStepSumTest.minStartValueBinarySearchCase2Test" />
-        <item itemvalue="JUnit.MinimumValueToGetPositiveStepByStepSumTest.minStartValueBinarySearchTest" />
-        <item itemvalue="JUnit.MinimumValueToGetPositiveStepByStepSumTest.minStartValueTest" />
-        <item itemvalue="JUnit.RunningSumTest.runningSumTest" />
-        <item itemvalue="JUnit.MaxConsecutiveTest.longestOnesTest" />
+        <item itemvalue="JUnit.LongestSubstringWithoutRepeatingCharactersTest.lengthOfLongestSubstring" />
+        <item itemvalue="JUnit.RansomNoteTest.canConstruct" />
+        <item itemvalue="JUnit.MaximumNumberOfBalloonsTest.maxNumberOfBalloonsTest" />
+        <item itemvalue="JUnit.LargestUniqueNumberTest.largestUniqueNumberSortTest" />
+        <item itemvalue="JUnit.LargestUniqueNumberTest.largestUniqueNumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +172,12 @@
       <option name="presentableId" value="Default" />
       <updated>1668076294328</updated>
       <workItem from="1668076295792" duration="12504000" />
-      <workItem from="1668456705925" duration="5567000" />
+      <workItem from="1668456705925" duration="5950000" />
+      <workItem from="1668536206579" duration="4941000" />
+      <workItem from="1668639587744" duration="8365000" />
+      <workItem from="1669043932982" duration="6642000" />
+      <workItem from="1669161193182" duration="3113000" />
+      <workItem from="1669233689266" duration="6219000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1668172764349</created>
@@ -168,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668172764349</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished with Array and string section">
+      <created>1668505936693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668505936693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="finished with Array and string section" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished with Array and string section" />
   </component>
 </project>
