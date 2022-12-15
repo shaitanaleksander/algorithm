@@ -4,37 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="finished with list questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/FindifPathExistsinGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/JumpGameIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/MaxAreaOfIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/MinimumGeneticMutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/NearestExitFromEntranceInMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/NumberOfConnectedComponentsInAnUndirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/ReachableNodesWithRestrictions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/StockSpanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/ClosestBinarySearchTreeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/DeepestLeavesSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/InsertIntoaBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/MaximumDifferenceBetweenNodeAndAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/MinimumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/FindifPathExistsinGraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/JumpGameIIITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/MaxAreaOfIslandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/MinimumGeneticMutationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/NearestExitFromEntranceInMazeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/NumberOfConnectedComponentsInAnUndirectedGraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/ReachableNodesWithRestrictionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/graphs/WordLadderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/statckTest/MakeTheStringGreat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/statckTest/NextGreaterElementI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/statckTest/SimplifyPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/statckTest/StockSpannerTest.java" afterDir="false" />
+    <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="finished with graphs questions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/KClosestPointsToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/MinimumCostToConnectSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/RemoveStonesToMinimizeTheTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/KClosestPointsToOriginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/KthLargestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/RemoveStonesToMinimizeTheTotalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/TopKFrequentWordsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,13 +65,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.WordLadderTest.ladderLengthTest">
-    <configuration name="WordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.graphs.WordLadder" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.leetcode.heap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.KClosestPointsToOriginTest.kClosest">
+    <configuration name="KClosestPointsToOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.KClosestPointsToOrigin" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.graphs.*" />
+          <option name="PATTERN" value="org.leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,65 +84,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpGameIIITest.canReachTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KClosestPointsToOriginTest.kClosest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.graphs.*" />
+          <option name="PATTERN" value="org.leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.graphs" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.graphs.JumpGameIIITest" />
-      <option name="METHOD_NAME" value="canReachTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.KClosestPointsToOriginTest" />
+      <option name="METHOD_NAME" value="kClosest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumGeneticMutationTest.minMutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KthLargestTest.KthLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.graphs.*" />
+          <option name="PATTERN" value="org.leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.graphs" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.graphs.MinimumGeneticMutationTest" />
-      <option name="METHOD_NAME" value="minMutationTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.KthLargestTest" />
+      <option name="METHOD_NAME" value="KthLargest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearestExitFromEntranceInMazeTest.nearestExitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveStonesToMinimizeTheTotalTest.minStoneSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.graphs.*" />
+          <option name="PATTERN" value="org.leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.graphs" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.graphs.NearestExitFromEntranceInMazeTest" />
-      <option name="METHOD_NAME" value="nearestExitTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.RemoveStonesToMinimizeTheTotalTest" />
+      <option name="METHOD_NAME" value="minStoneSumTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordLadderTest.ladderLengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentWordsTest.topKFrequentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.graphs.*" />
+          <option name="PATTERN" value="org.leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.graphs" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.graphs.WordLadderTest" />
-      <option name="METHOD_NAME" value="ladderLengthTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.TopKFrequentWordsTest" />
+      <option name="METHOD_NAME" value="topKFrequentTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WordLadderTest.ladderLengthTest" />
-        <item itemvalue="Application.WordLadder" />
-        <item itemvalue="JUnit.JumpGameIIITest.canReachTest" />
-        <item itemvalue="JUnit.MinimumGeneticMutationTest.minMutationTest" />
-        <item itemvalue="JUnit.NearestExitFromEntranceInMazeTest.nearestExitTest" />
+        <item itemvalue="JUnit.KClosestPointsToOriginTest.kClosest" />
+        <item itemvalue="Application.KClosestPointsToOrigin" />
+        <item itemvalue="JUnit.TopKFrequentWordsTest.topKFrequentTest" />
+        <item itemvalue="JUnit.RemoveStonesToMinimizeTheTotalTest.minStoneSumTest" />
+        <item itemvalue="JUnit.KthLargestTest.KthLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +186,7 @@
       <workItem from="1670503010957" duration="3874000" />
       <workItem from="1670883950457" duration="8001000" />
       <workItem from="1670971023083" duration="2673000" />
+      <workItem from="1671033392058" duration="12938000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1668172764349</created>
@@ -224,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669305114801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished with graphs questions">
+      <created>1671033432744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671033432744</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +237,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="finished with Array and string section" />
     <MESSAGE value="finished with list questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished with list questions" />
+    <MESSAGE value="finished with graphs questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished with graphs questions" />
   </component>
 </project>
