@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="finished with graphs questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/KClosestPointsToOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/MinimumCostToConnectSticks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/RemoveStonesToMinimizeTheTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/heap/TopKFrequentWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/KClosestPointsToOriginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/KthLargestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/RemoveStonesToMinimizeTheTotalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/heap/TopKFrequentWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/binarySerch/FindtheSmallestDivisorGivenaThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/binarySerch/LongestSubsequenceWithLimitedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/binarySerch/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/HowManyApplesCanYouPutIntoTheBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/Maximum69Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/MaximumUnitsOnATruck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/ReduceArraySizeToTheHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/binarySerch/FindtheSmallestDivisorGivenaThresholdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/binarySerch/LongestSubsequenceWithLimitedSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/binarySerch/SearchInsertPositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/greedy/MaximumUnitsOnATruckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/greedy/ReduceArraySizeToTheHalfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shaitan/dev/java/algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,7 +67,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -70,79 +76,82 @@
       <recent name="org.leetcode.heap" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KClosestPointsToOriginTest.kClosest">
-    <configuration name="KClosestPointsToOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.KClosestPointsToOrigin" />
+  <component name="RunManager" selected="JUnit.FindtheSmallestDivisorGivenaThresholdTest.smallestDivisorTest">
+    <configuration name="FindtheSmallestDivisorGivenaThresholdTest.smallestDivisorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.heap.*" />
+          <option name="PATTERN" value="org.leetcode.binarySerch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KClosestPointsToOriginTest.kClosest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.leetcode.heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.KClosestPointsToOriginTest" />
-      <option name="METHOD_NAME" value="kClosest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.binarySerch" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.binarySerch.FindtheSmallestDivisorGivenaThresholdTest" />
+      <option name="METHOD_NAME" value="smallestDivisorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestTest.KthLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubsequenceWithLimitedSumTest.answerQueriesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.heap.*" />
+          <option name="PATTERN" value="org.leetcode.binarySerch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.KthLargestTest" />
-      <option name="METHOD_NAME" value="KthLargest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.binarySerch" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.binarySerch.LongestSubsequenceWithLimitedSumTest" />
+      <option name="METHOD_NAME" value="answerQueriesTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveStonesToMinimizeTheTotalTest.minStoneSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumUnitsOnATruckTest.maximumUnitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.heap.*" />
+          <option name="PATTERN" value="org.leetcode.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.RemoveStonesToMinimizeTheTotalTest" />
-      <option name="METHOD_NAME" value="minStoneSumTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.greedy.MaximumUnitsOnATruckTest" />
+      <option name="METHOD_NAME" value="maximumUnitsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopKFrequentWordsTest.topKFrequentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReduceArraySizeToTheHalfTest.minSetSizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.heap.*" />
+          <option name="PATTERN" value="org.leetcode.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.heap" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.heap.TopKFrequentWordsTest" />
-      <option name="METHOD_NAME" value="topKFrequentTest" />
+      <option name="PACKAGE_NAME" value="org.leetcode.greedy" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.greedy.ReduceArraySizeToTheHalfTest" />
+      <option name="METHOD_NAME" value="minSetSizeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInsertPositionTest.searchInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.leetcode.binarySerch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.leetcode.binarySerch" />
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.binarySerch.SearchInsertPositionTest" />
+      <option name="METHOD_NAME" value="searchInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KClosestPointsToOriginTest.kClosest" />
-        <item itemvalue="Application.KClosestPointsToOrigin" />
-        <item itemvalue="JUnit.TopKFrequentWordsTest.topKFrequentTest" />
-        <item itemvalue="JUnit.RemoveStonesToMinimizeTheTotalTest.minStoneSumTest" />
-        <item itemvalue="JUnit.KthLargestTest.KthLargest" />
+        <item itemvalue="JUnit.FindtheSmallestDivisorGivenaThresholdTest.smallestDivisorTest" />
+        <item itemvalue="JUnit.LongestSubsequenceWithLimitedSumTest.answerQueriesTest" />
+        <item itemvalue="JUnit.SearchInsertPositionTest.searchInsert" />
+        <item itemvalue="JUnit.ReduceArraySizeToTheHalfTest.minSetSizeTest" />
+        <item itemvalue="JUnit.MaximumUnitsOnATruckTest.maximumUnitsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +196,15 @@
       <workItem from="1670883950457" duration="8001000" />
       <workItem from="1670971023083" duration="2673000" />
       <workItem from="1671033392058" duration="12938000" />
+      <workItem from="1671132879574" duration="1164000" />
+      <workItem from="1671378797842" duration="843000" />
+      <workItem from="1671379741617" duration="322000" />
+      <workItem from="1671381009806" duration="430000" />
+      <workItem from="1671381497805" duration="6364000" />
+      <workItem from="1671466160357" duration="3828000" />
+      <workItem from="1671576456554" duration="1007000" />
+      <workItem from="1671661910401" duration="5014000" />
+      <workItem from="1671805998354" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1668172764349</created>
