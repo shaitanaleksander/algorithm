@@ -5,21 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="finished with graphs questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/binarySerch/FindtheSmallestDivisorGivenaThreshold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/binarySerch/LongestSubsequenceWithLimitedSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/binarySerch/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/HowManyApplesCanYouPutIntoTheBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/Maximum69Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/MaximumUnitsOnATruck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/greedy/ReduceArraySizeToTheHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/binarySerch/FindtheSmallestDivisorGivenaThresholdTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/binarySerch/LongestSubsequenceWithLimitedSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/binarySerch/SearchInsertPositionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/greedy/MaximumUnitsOnATruckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/leetcode/greedy/ReduceArraySizeToTheHalfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/GreatestCommonDivisorOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/IncreasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/LongestSubarrayOf1sAfterDeletingOneElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MaxNumberOfKSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MaximumNumberOfVowelsInASubstringOfGivenLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/NumerOfLaserBeamsInABank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/ReverseVowelsOfAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/VsnPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/ZigzagConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/DetermineIfTwoStringsAreClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/EqualrowAndColumnPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/FindTheDifferenceOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/UniqueNumberOfOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/DeleteTheMiddleNodeOfALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/Dota2Senate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/MaximumTwinSumOfALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/numberOFRecentCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/RemovingStarsFromAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/EvaluateBooleanBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/FindAlllTheLonelyNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/IncreasingOrderSearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/LeafSimilarTrees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/Reverser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +62,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2HLtfIefMvCBzL3eKPzCEahGgET" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,16 +73,31 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AsteroidCollision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecodeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dota2Senate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestCommonDivisorOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncreasingTripletSubsequence.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LongestSubarrayOf1sAfterDeletingOneElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumNumberOfVowelsInASubstringOfGivenLength.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReverseVowelsOfAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VsnPlaceFlowers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigzagConversion.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/shaitan/dev/java/algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
@@ -76,94 +110,79 @@
       <recent name="org.leetcode.heap" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindtheSmallestDivisorGivenaThresholdTest.smallestDivisorTest">
-    <configuration name="FindtheSmallestDivisorGivenaThresholdTest.smallestDivisorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Dota2Senate">
+    <configuration name="AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.stack.AsteroidCollision" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.binarySerch.*" />
+          <option name="PATTERN" value="org.leetcode.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.binarySerch" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.binarySerch.FindtheSmallestDivisorGivenaThresholdTest" />
-      <option name="METHOD_NAME" value="smallestDivisorTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubsequenceWithLimitedSumTest.answerQueriesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.stack.DecodeString" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.binarySerch.*" />
+          <option name="PATTERN" value="org.leetcode.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.binarySerch" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.binarySerch.LongestSubsequenceWithLimitedSumTest" />
-      <option name="METHOD_NAME" value="answerQueriesTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumUnitsOnATruckTest.maximumUnitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Dota2Senate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.linkedList.Dota2Senate" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.greedy.*" />
+          <option name="PATTERN" value="org.leetcode.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.greedy.MaximumUnitsOnATruckTest" />
-      <option name="METHOD_NAME" value="maximumUnitsTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceArraySizeToTheHalfTest.minSetSizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubarrayOf1sAfterDeletingOneElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStrings.LongestSubarrayOf1sAfterDeletingOneElement" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.greedy.*" />
+          <option name="PATTERN" value="org.leetcode.arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.greedy" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.greedy.ReduceArraySizeToTheHalfTest" />
-      <option name="METHOD_NAME" value="minSetSizeTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertPositionTest.searchInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumNumberOfVowelsInASubstringOfGivenLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.arraysAndStrings.MaximumNumberOfVowelsInASubstringOfGivenLength" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.binarySerch.*" />
+          <option name="PATTERN" value="org.leetcode.arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.leetcode.binarySerch" />
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.binarySerch.SearchInsertPositionTest" />
-      <option name="METHOD_NAME" value="searchInsert" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindtheSmallestDivisorGivenaThresholdTest.smallestDivisorTest" />
-        <item itemvalue="JUnit.LongestSubsequenceWithLimitedSumTest.answerQueriesTest" />
-        <item itemvalue="JUnit.SearchInsertPositionTest.searchInsert" />
-        <item itemvalue="JUnit.ReduceArraySizeToTheHalfTest.minSetSizeTest" />
-        <item itemvalue="JUnit.MaximumUnitsOnATruckTest.maximumUnitsTest" />
+        <item itemvalue="Application.Dota2Senate" />
+        <item itemvalue="Application.DecodeString" />
+        <item itemvalue="Application.AsteroidCollision" />
+        <item itemvalue="Application.LongestSubarrayOf1sAfterDeletingOneElement" />
+        <item itemvalue="Application.MaximumNumberOfVowelsInASubstringOfGivenLength" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +224,33 @@
       <workItem from="1671576456554" duration="1007000" />
       <workItem from="1671661910401" duration="5014000" />
       <workItem from="1671805998354" duration="83000" />
+      <workItem from="1704294487172" duration="3502000" />
+      <workItem from="1704393256310" duration="9000" />
+      <workItem from="1705009052911" duration="3991000" />
+      <workItem from="1705061377095" duration="21000" />
+      <workItem from="1707229227132" duration="1937000" />
+      <workItem from="1707924373040" duration="3781000" />
+      <workItem from="1707946484558" duration="4702000" />
+      <workItem from="1708006764955" duration="1965000" />
+      <workItem from="1708088632622" duration="4734000" />
+      <workItem from="1708361300401" duration="11000" />
+      <workItem from="1708446186297" duration="1819000" />
+      <workItem from="1708622182798" duration="9000" />
+      <workItem from="1708700403878" duration="3000" />
+      <workItem from="1708964301938" duration="5000" />
+      <workItem from="1709040283280" duration="7473000" />
+      <workItem from="1709064299101" duration="6536000" />
+      <workItem from="1709125634164" duration="3046000" />
+      <workItem from="1709223628128" duration="4000" />
+      <workItem from="1709742096569" duration="8670000" />
+      <workItem from="1709839220000" duration="8754000" />
+      <workItem from="1709919247429" duration="2051000" />
+      <workItem from="1709941605200" duration="1960000" />
+      <workItem from="1709997967189" duration="11136000" />
+      <workItem from="1710086589908" duration="4169000" />
+      <workItem from="1710178650796" duration="3000" />
+      <workItem from="1710196319961" duration="990000" />
+      <workItem from="1710263374471" duration="5597000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1668172764349</created>
@@ -257,5 +303,81 @@
     <MESSAGE value="finished with list questions" />
     <MESSAGE value="finished with graphs questions" />
     <option name="LAST_COMMIT_MESSAGE" value="finished with graphs questions" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
