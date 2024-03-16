@@ -4,38 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="finished with graphs questions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/GreatestCommonDivisorOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/IncreasingTripletSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/LongestSubarrayOf1sAfterDeletingOneElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MaxNumberOfKSumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MaximumNumberOfVowelsInASubstringOfGivenLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/MergeStringsAlternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/NumerOfLaserBeamsInABank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/ReverseVowelsOfAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/VsnPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/ZigzagConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/DetermineIfTwoStringsAreClose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/EqualrowAndColumnPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/FindTheDifferenceOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/hashing/UniqueNumberOfOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/DeleteTheMiddleNodeOfALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/Dota2Senate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/MaximumTwinSumOfALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/linkedList/numberOFRecentCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/AsteroidCollision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/stack/RemovingStarsFromAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/EvaluateBooleanBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/FindAlllTheLonelyNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/IncreasingOrderSearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/LeafSimilarTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a1b8efb3-fd7f-4b77-8fde-69f1c8b5bc2a" name="Changes" comment="Add new solutions for array, string, and tree problems&#10;&#10;This commit includes solutions for various problems related to arrays, strings, and trees in LeetCode. Solutions involve different approaches like greedy algorithms, binary search, and depth-first search. The code is enhanced by adding methods to perform specific operations like the greatest common divisor of strings, string compression, zigzag conversion, and many others.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/KeysAndRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/graphs/NumberOfProvinces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/DeleteNodeInABST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/LongestZogZagPathInABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/LowestCommonAncestorOfABinamryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/MaximumLevelSumOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/PathSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/trees/PathSumIII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/arraysAndStrings/Reverser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,6 +230,12 @@
       <workItem from="1710178650796" duration="3000" />
       <workItem from="1710196319961" duration="990000" />
       <workItem from="1710263374471" duration="5597000" />
+      <workItem from="1710347618047" duration="10411000" />
+      <workItem from="1710380330544" duration="1163000" />
+      <workItem from="1710426395405" duration="8624000" />
+      <workItem from="1710455975284" duration="2058000" />
+      <workItem from="1710525587851" duration="2207000" />
+      <workItem from="1710551647731" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1668172764349</created>
@@ -280,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1671033432744</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add new solutions for array, string, and tree problems&#10;&#10;This commit includes solutions for various problems related to arrays, strings, and trees in LeetCode. Solutions involve different approaches like greedy algorithms, binary search, and depth-first search. The code is enhanced by adding methods to perform specific operations like the greatest common divisor of strings, string compression, zigzag conversion, and many others.">
+      <option name="closed" value="true" />
+      <created>1710347924131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710347924131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +295,8 @@
     <MESSAGE value="finished with Array and string section" />
     <MESSAGE value="finished with list questions" />
     <MESSAGE value="finished with graphs questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished with graphs questions" />
+    <MESSAGE value="Add new solutions for array, string, and tree problems&#10;&#10;This commit includes solutions for various problems related to arrays, strings, and trees in LeetCode. Solutions involve different approaches like greedy algorithms, binary search, and depth-first search. The code is enhanced by adding methods to perform specific operations like the greatest common divisor of strings, string compression, zigzag conversion, and many others." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new solutions for array, string, and tree problems&#10;&#10;This commit includes solutions for various problems related to arrays, strings, and trees in LeetCode. Solutions involve different approaches like greedy algorithms, binary search, and depth-first search. The code is enhanced by adding methods to perform specific operations like the greatest common divisor of strings, string compression, zigzag conversion, and many others." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
